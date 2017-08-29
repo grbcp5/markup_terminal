@@ -1,0 +1,22 @@
+{
+  "name": "markup_terminal",
+  "version": "1.0.0",
+  "description": "Terminal for the markup application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grbcp5/markup_terminal.git"
+  },
+  "author": "Grant Broadwater",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grbcp5/markup_terminal/issues"
+  },
+  "homepage": "https://github.com/grbcp5/markup_terminal#readme",
+  "dependencies": {
+    "firebase-admin": "^5.2.1"
+  }
+}
